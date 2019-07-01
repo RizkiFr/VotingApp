@@ -28,7 +28,7 @@
 <script>
 export default {
   nama: 'vote',
-  apikey:'AIzaSyBpOsUshWJTOEUe3B0cD97KWRiqWQctuTA',
+  apikey:'YOUR_API_KEY',
   idkey:'UChF7Xq30UeZEARi_29YVrvg',
   data(){
     return{
